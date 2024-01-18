@@ -1,4 +1,4 @@
-## Dataset 3 - Expression profiling by array
+# Dataset 3 - Expression profiling by array
 
 The dataset is Microarray expression data derived from ovaries of 12 women with Polycystic Ovary Syndrome and 24 Female to Male Transexual individuals after treatment with Testosterone (GEO accesion number: GSE87435).
 
